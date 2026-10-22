@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+.qa/chrome/
+node_modules/

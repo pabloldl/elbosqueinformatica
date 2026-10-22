@@ -1,0 +1,178 @@
+{
+  "widths": [
+    {
+      "width": 375,
+      "scrollWidth": 360,
+      "brokenImages": 0,
+      "missingAnchors": 0,
+      "fonts": [
+        {
+          "family": "Chakra",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "GeistMono",
+          "status": "loaded"
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "brokenImages": 0,
+      "missingAnchors": 0,
+      "fonts": [
+        {
+          "family": "Chakra",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "GeistMono",
+          "status": "loaded"
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "brokenImages": 0,
+      "missingAnchors": 0,
+      "fonts": [
+        {
+          "family": "Chakra",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "GeistMono",
+          "status": "loaded"
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "brokenImages": 0,
+      "missingAnchors": 0,
+      "fonts": [
+        {
+          "family": "Chakra",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "Geist",
+          "status": "loaded"
+        },
+        {
+          "family": "GeistMono",
+          "status": "loaded"
+        }
+      ],
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "clipboard": {
+    "text": "657375902",
+    "label": "Número copiado",
+    "status": "657375902 copiado al portapapeles."
+  },
+  "copyFallback": {
+    "status": "657375902 copiado al portapapeles.",
+    "manualVisible": false
+  },
+  "copyManual": {
+    "status": "Puedes copiar el número desde el campo seleccionado.",
+    "manualVisible": true,
+    "selection": "657375902"
+  },
+  "navigation": [
+    {
+      "hash": "#ubicacion",
+      "active": "#ubicacion",
+      "section": "Ubicación"
+    },
+    {
+      "hash": "#contacto",
+      "active": "#contacto",
+      "section": "Contacto directo"
+    },
+    {
+      "hash": "#inicio",
+      "active": "#inicio",
+      "section": "Espacio principal"
+    }
+  ],
+  "reducedMotion": {
+    "scrollBehavior": "auto",
+    "animations": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ]
+  },
+  "keyboard": {
+    "element": "A",
+    "name": "↓",
+    "outline": "solid"
+  },
+  "links": {
+    "tel": [
+      "tel:+34657375902",
+      "tel:+34657375902",
+      "tel:+34657375902",
+      "tel:+34657375902"
+    ],
+    "maps": [
+      "https://www.google.com/maps/search/?api=1&query=Plaza%20La%20Clavellina%201%2C%2011670%20El%20Bosque%2C%20C%C3%A1diz",
+      "https://www.google.com/maps/search/?api=1&query=Plaza%20La%20Clavellina%201%2C%2011670%20El%20Bosque%2C%20C%C3%A1diz"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "El Bosque Informática",
+      "description": "Informática en El Bosque, Cádiz.",
+      "telephone": "+34657375902",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plaza La Clavellina, 1",
+        "postalCode": "11670",
+        "addressLocality": "El Bosque",
+        "addressRegion": "Cádiz",
+        "addressCountry": "ES"
+      }
+    }
+  }
+}
